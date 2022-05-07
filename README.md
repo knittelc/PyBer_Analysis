@@ -20,12 +20,16 @@
 
 ## Summary:
 
-  Based on these results there are a number of items that could be addressed with different outcomes in mind.
-    Addressing ride availability in Rural areas:   
-     - Coupons : Ride coupons to help with affordablity could be utilized.
-     - Driver Pay : Increasing Rural driver pay to encourage more drivers, could encourage more riders as the availability would be higher.  
-     If there are more cars/drivers available people who had to count on this type of service could increase.
-     - Maximum Charge based on a maximum radius :
-      
-  Limitations
-    While there was a vast amount of data used to analyze with these results; they could still be skewed.  Depending on the location of the city, we are only looking at winter/early spring.  Is it more difficult to get to Rural areas due to weather caused road issues?  What does the rest of the year look like, do these trends hold up?  Is 2019 an anomoly year?  This company is new, what does marketing look like in Urban areas vs Rural?
+### Based on these results there are a number of items that could be addressed with different outcomes in mind.
+
+### Addressing ride availability in Rural areas:   
+- Coupons : Ride coupons to help with affordablity could be utilized.
+- Driver Pay : Increasing Rural driver pay to encourage more drivers, could encourage more riders as the availability would be higher.  If there are more cars/drivers available people who had to count on this type of service could increase.
+- Maximum Charge based on a maximum radius :  Look into the route lengths to see if this is where the charge increases are coming into play.  If this is part of the larger fares, consider a flat fee after X amount of miles.  Or a radius included in a smaller flat fee closer to a smaller population center or road grouping.  While this would take further data needs, it could be worth knowing more about these data points.
+
+### Opportunity in Suburban and Urban areas:
+- Cost Increase : Consider pulling data from competitors, specifically to see the charge per mile based on these locations. Is there room to slightly increase per mile or simply add a $2-3 gas fee or similar.  This would help align the fare per driver rates and fare averages with the Rural averages; increasing overall income for the entire brand.
+- Driver Pay : Similarly, cap driver pay in Suburban and Urban, letting tips help support the pay.  This could drive down the availability of drivers, thus increasing a fare fee due to capacity limitations.  People might opt to pay a higher rate for a guaranteed time, or increasing a "wait time" for Urban drivers to increase fares to better align with Rural and Suburban rates.
+
+### Data Limitations
+- While there was a vast amount of data used to analyze with these results; they could still be skewed.  Depending on the location of the city, we are only looking at winter/early spring.  Is it more difficult to get to Rural areas due to weather caused road issues?  What does the rest of the year look like, do these trends hold up?  Is 2019 an anomoly year?  This company is new, what does marketing look like in Urban areas vs Rural?
