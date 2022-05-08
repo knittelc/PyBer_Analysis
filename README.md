@@ -13,7 +13,7 @@
 
 ###### Figure 1. PyBer summary of total rides, fares, and average fare per ride and drivers.
 
-  The total fare by city type in $USD are graphed for the first part of the year in 2019.  This graph below (Figure2) summarizes the results reported above.  With Urban (green) having the most total rides and highest aggregater fares, followed by Suburban (orange), and the lowest number of rides therefore smalled monetary summation of fares at the Rural level. 
+  The total fare by city type in $USD are graphed for the first part of the year in 2019.  This graph below (Figure2) summarizes the results reported above.  With Urban (green) having the most total rides and highest aggregate fares, followed by Suburban (orange), and the lowest number of rides therefore smalled monetary summation of fares at the Rural level. 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/102183530/167272978-01b22d77-1de1-4da6-bf93-a3a18f74e752.png)
 
